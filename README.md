@@ -1,6 +1,6 @@
 # COVID19-Hospitalisation-Data-Science-Project
 Nanyang Nanyang Business School (AY2021/2022 Sem 1)  
-BC3409 AI in Accounting and Finance
+BC3409 AI in Accounting and Finance  
 *Done in collaboration with 4 team members  
 
 *A data science project aimed towards predicting hospitalisation among COVID-19 infected patients*
