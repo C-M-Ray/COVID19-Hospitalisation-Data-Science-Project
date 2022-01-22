@@ -7,7 +7,7 @@ BC3409 AI in Accounting and Finance
 # Data Source  
 - Hospital Israelita Albert Einstein | https://www.kaggle.com/einsteindata4u/covid19
 # Instructions
-1. Download the files onto your local computer
+1. Download the files onto your local computer (including the datasets under 'Data Source')
 2. Ensure that these libraries are installed: pandas, numpy, matplotlib, seaborn, sklearn, scipy, imblearn
 3. Run Python_Script.ipynb 
 
